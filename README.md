@@ -31,6 +31,10 @@ The Bagman bot is the Discord frontend to Bagman. This is how users will mostly 
 
 The web client is the web frontend to Bagman. This is how event maintainers will mostly interact with Bagman. Provides an interface for creating and managing events, and also keeps track of submissions.
 
+### CONSOLE CLIENT
+
+Quick way to manage the bot from the command line.
+
 ## MAINTAINERS
 
 * Feki `Feki#1165`
